@@ -1,12 +1,12 @@
-import Connect from '@/components/Connect'
+import ConnectButton from '@/components/ConnectButton'
 import styles from './page.module.css'
-import Custom from '@/components/Custom'
+import CustomButton from '@/components/CustomButton'
 
 export default function Home() {
   return (
     <main className={styles.main}>
-      <Connect />
-      <Custom/>
+      <ConnectButton />
+      <CustomButton />
     </main>
   )
 }
