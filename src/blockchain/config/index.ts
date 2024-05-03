@@ -10,7 +10,7 @@ const metadata = {
   name: 'Web3Modal',
   description: 'Web3Modal Example',
   url: `${process.env.NEXT_APP_URL}`,
-  icons: ['/walletconnect-logo.svg'],
+  icons: ['https://avatars.githubusercontent.com/u/37784886'],
 };
 
 export const wagmiConfig = defaultWagmiConfig({

@@ -76,7 +76,9 @@ export const shardeum = defineChain({
 });
 
 export const chainImages = {
-  88: '/vic-icon.svg',
-  89: '/vic-icon.svg',
-  8082: '/shm-icon.svg',
+  88: '/vic-icon.jpg',
+  89: '/vic-icon.jpg',
+  97: '/bsc-icon.jpg',
+  8082: '/shm-icon.jpg',
+  11155111: '/eth-icon.jpg',
 }
